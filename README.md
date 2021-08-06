@@ -1,2 +1,2 @@
-# ancient-maze-graph-samples
-Sample code used to make YouTube video (link in readme)
+# Code Samples for my YouTube video
+The video will be uploaded by the end of Sunday, 2021-08-08
