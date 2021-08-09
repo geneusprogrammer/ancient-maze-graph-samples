@@ -1,11 +1,21 @@
 # Code Samples for my YouTube video
-The video will be uploaded by the end of Sunday, 2021-08-08
+These are code samples from my video.
+
+## Python Code
+This code was created in Jupyter Notebook and then tested and saved in PyCharm. 
+Most of the code is repeating in all three files, except changes made for each version of the algorithm.
+
+TraverseWithGraph-SingleLevel.py
+
+TraverseWithGraph-WithStartingCoordinates.py
+
+TraverseWithGraph-MultiLevelArray.py
+
 
 ## C# code 
-TraverseWithGraph.cs
+TraverseWithGraph.cs is a C# implementation of Python's version of algorithm - TraverseWithGraph-MultiLevelArray.py
 
 To use:
-
 
 var myMaze = Mazes.Maze3D;  // Create an array
 
