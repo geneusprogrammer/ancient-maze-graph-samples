@@ -1,5 +1,5 @@
 # Code Samples for my YouTube video
-These are code samples from my video.
+These are code samples I created for my bideo https://youtu.be/3BMaE0mKrk8 
 
 ## Python Code
 This code was created in Jupyter Notebook and then tested and saved in PyCharm. 
